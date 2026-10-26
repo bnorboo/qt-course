@@ -1,5 +1,3 @@
-// csocsvihar
-
 #include <QDebug>
 #include <QCoreApplication>
 
